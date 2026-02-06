@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-aiosqlite
-httpx
-user-agents
-python-multipart
